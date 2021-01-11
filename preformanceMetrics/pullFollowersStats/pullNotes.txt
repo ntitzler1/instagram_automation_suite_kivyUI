@@ -1,0 +1,3 @@
+
+t1: input:10000: got to 2089 then insta failed to load any more followers
+T2: input:10000: got to 2419 then insta failed to load any more followers

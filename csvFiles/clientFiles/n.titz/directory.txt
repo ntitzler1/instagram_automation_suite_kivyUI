@@ -1,0 +1,5 @@
+
+moma:0
+moma2:5
+
+carrots:50
